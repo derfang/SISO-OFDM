@@ -37,6 +37,7 @@ $$\hat{X}_{ZF} = \frac{Y[k]}{H[k]}$$
 
 **2. Minimum Mean Square Error (MMSE)**
 Minimizes the total error by accounting for the noise variance $\sigma^2_{noise}$. This prevents division by zero during deep fades.
+
 $$\hat{X}_{MMSE} = \frac{H[k]^* \cdot Y[k]}{|H[k]|^2 + \sigma^2_{noise}}$$
 
 **3. Adaptive Logic**
