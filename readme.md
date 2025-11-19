@@ -48,7 +48,8 @@ The system monitors SNR and switches modes:
 ## 4. Simulation Results
 
 ### Figure 1: BER Waterfall Curve
-![Insert your BER_Waterfall.png here]
+![BER Waterfall Curve](<BER Performance.jpg>)
+![BER Waterfall Curve zoomed](<BER Performance zoom.jpg>)
 
 * **Observation:** The MMSE algorithm (Blue) consistently outperforms Zero Forcing (Red), typically providing a **3-4 dB coding gain**.
 * **Analysis:** The Zero Forcing curve flattens out at high SNR, indicating an "Error Floor" caused by unrecoverable spectral nulls.
