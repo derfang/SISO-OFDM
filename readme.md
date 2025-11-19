@@ -56,7 +56,7 @@ The system monitors SNR and switches modes:
 * **Adaptive Performance:** The Black dashed line tracks the optimal performance path, verifying the switching logic.
 
 ### Figure 2: Constellation Analysis
-![Insert your Constellation_Analysis.png here]
+![Constellation](<Constellation Analysis.jpg>)
 
 * **Raw Signal (Left):** Visualizes the "Donut" effect caused by phase rotation in the complex channel.
 * **Zero Forcing (Center):** Shows the impact of noise amplification—points are scattered ("exploded") far from their ideal grid locations.
